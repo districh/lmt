@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>@yield('title',"LMTs'Party")</title>
+        <title>@yield('title',"LMT 's Party")</title>
         {{--引入样式--}}
         <link rel="stylesheet" href="/css/app.css">
     </head>
