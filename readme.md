@@ -1,6 +1,7 @@
 ## 关于lmt
 laravel-china开发实战入门教程项目
-- [入门教程](https://laravel-china.org/courses/laravel-essential-training-5.5).
+- [入门教程地址](https://laravel-china.org/courses/laravel-essential-training-5.5)
+- [项目线上地址](http://lmt.herokuapp.com/)
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
