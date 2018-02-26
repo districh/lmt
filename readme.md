@@ -1,3 +1,7 @@
+## 关于lmt
+laravel-china开发实战入门教程项目
+- [教程地址](https://laravel-china.org/courses/laravel-essential-training-5.5).
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
